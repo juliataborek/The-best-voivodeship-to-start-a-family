@@ -7,15 +7,20 @@ Project implemented during master's studies, November 2023 - January 2024
 
 **Programs used:** rstudio, statistica, excel
 
-## AW projekt
-A report containing the results of all analyses, visualizations and conclusions
+## Files:
+- *AW projekt*
+  A report containing the results of all analyses, visualizations and conclusions
 
-## Porządkowanie liniowe
-Excel file containing transformations, visualizations and linear ordering results
+- *Porządkowanie liniowe*
+  Excel file containing transformations, visualizations and linear ordering results
 
-## wykres piramidy wieku
-R file containing age pyramid chart
+- *wykres piramidy wieku*
+  R file containing age pyramid chart
+  
+- *analiza skupień*
+  R file containing cluster analysis
+  
+- *projekt R poprawa*
+  R file containing preliminary analysis, visualizations and PCA
 
-## analiza skupień
-R file containing cluster analysis
 
